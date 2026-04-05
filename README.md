@@ -31,7 +31,7 @@ Movies 🎬 • Philosophy 📖 •  Crypto & Stock Analysis 📈 • Physics �
 
 ### 🧬 Research Core
 
-I am mainly interested in the development of mathematical methodologies and algorithms for optimal data-driven decision making. To achieve this, I focus on tools and frameworks :
+I am mainly interested in the development of mathematical methodologies and algorithms for optimal data-driven decision making. To achieve this, I focus on tools and frameworks
 including:  
 - **Reinforcement Learning (RL)** applied to macro-finance simulations  
 - **Stochastic control and approximate dynamic programming**  
