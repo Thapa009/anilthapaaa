@@ -73,9 +73,7 @@ including:
 - 🏛️ **Macro Modeling:** Applying RL to large-scale economic simulations  
 
 ---
-
-### ☕ Beyond the Keyboard
-Exploring: **Movies**, **Physics**, **International Relations**, **Diplomacy**, **Philosophy**, **Movies**, 
+ 
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150" />
