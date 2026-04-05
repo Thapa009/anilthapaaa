@@ -37,7 +37,7 @@ including:
 - **Stochastic control and approximate dynamic programming**  
 - **Distributionally robust optimization and stochastic programming**  
 - **Causal inference, information theory, and large deviation methods**
-- 
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
