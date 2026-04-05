@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=005f73&height=200&section=header&text=𝓐𝓷𝓲𝓵%20𝓣𝓱𝓪𝓹𝓪&fontSize=60&subtitle=Macroeconomics%20|%20Finance%20|%20Reinforcement%20Learning&subtitleSize=22" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Suman%20Dhakal&fontSize=70&subtitle=AI/ML%20Engineer%20|%20Nepal%20🇳🇵&subtitleSize=25&subColor=ffffff&fontAlignY=40" width="100%" />
 
   <br />
 
