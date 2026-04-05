@@ -22,7 +22,7 @@ My current work focuses on:
 - **Multifractal and cross-correlation methods** for financial modeling  
 - Building **robust data-driven decision frameworks** using classical and modern ML techniques  
  
-<i><small>"I am passionate about bridging **theory and practical systems**, building tools that **combine AI/ML with quantitative finance and macroeconomic modeling**."</small></i>
+<i><small>"I focus on connecting fundamental quantitative principles with real-world systems, building scalable and data-driven tools that integrate AI/ML with quantitative finance and macroeconomic modeling."</small></i>
 
 
 ### ☕ Beyond the Keyboard 
