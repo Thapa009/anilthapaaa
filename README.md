@@ -24,8 +24,9 @@ My current work focuses on:
  
 <i><small>"I am passionate about bridging **theory and practical systems**, building tools that **combine AI/ML with quantitative finance and macroeconomic modeling**."</small></i>
 
+### ☕ Beyond the Keyboard 
+Movies 🎬 • Philosophy 📖 • Quantitative Finance 📊 • Crypto 💹 • Stock Analysis 📈 • Physics 🔬 • Int’l Relations 🌐 • Diplomacy 🕊️ ---
 
----
 
 ### 🧬 Research Core
 
