@@ -16,8 +16,7 @@
 ---
 
 ### 🏛️ About Me
-
-I am **Anil Thapa**, currently exploring the intersection of **Macroeconomics, Finance, and Machine Learning**.  
+I am Anil Thapa, currently pursuing a Master’s degree in Artificial Intelligence at Gachon University, South Korea, where I work as a **Research Assistant** in the FDS (Financial Data Science) Lab. currently exploring the intersection of **Macroeconomics, Finance, and Machine Learning**.  
 My current work focuses on:  
 - **Financial time series analysis** and **quantitative trading strategies**  
 - **Multifractal and cross-correlation methods** for financial modeling  
