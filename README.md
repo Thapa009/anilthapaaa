@@ -1,15 +1,13 @@
 <div align="center">
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=𝓐𝓷𝓲𝓵%20𝓣𝓱𝓪𝓹𝓪&fontSize=70&subtitle=AI/ML%20Engineer%20|%20Nepal%20🇳🇵&subtitleSize=25&subColor=ffffff&fontAlignY=40" width="100%" />
-
+<h4 align="center">AI Researcher | Nepal 🇳🇵</h4>
   <br />
-
   <a href="mailto:anil369@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://[linkedin.com](https://www.linkedin.com/in/thapa369/)/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?hl=ko&user=YA02t2MAAAAJ">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
 </a>  <img src="https://komarev.com/ghpvc/?username=AniLabThapa&label=Profile%20Views&color=005f73&style=flat-square" />
-<h4 align="center">AI Researcher | Nepal 🇳🇵</h4>
   <p align="center">
     <i>"Optimization is not the end, but the art of learning from uncertainty."</i>
   </p>
