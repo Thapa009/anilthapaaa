@@ -26,7 +26,7 @@ My current work focuses on:
 
 
 ### ☕ Beyond the Keyboard 
-Movies 🎬 • Philosophy 📖 •  Crypto & Stock Analysis 📈 • Physics 🔬 • Int’l Relations & Diplomacy 🌐
+Movies 🎬 • Philosophy 📖 •  Crypto & Stock Analysis 📈 • Physics 
 
 
 ### 🧬 Research Core
